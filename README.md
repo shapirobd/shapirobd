@@ -1,7 +1,33 @@
-### Hi there 👋
+![New Project (8)](https://user-images.githubusercontent.com/67729880/115123130-a4412200-9f89-11eb-996e-bc3127b1f2f0.png)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=shapirobd.shapirobd)  
+
+🧰 Development Toolbox   
+<img src="https://img.icons8.com/color/60/000000/javascript.png"/>
+<img src="https://img.icons8.com/color/60/000000/python.png"/>
+<img src="https://img.icons8.com/plasticine/60/000000/react.png"/>
+<img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/60/000000/css3.png"/>
+<img src="https://img.icons8.com/color/60/000000/nodejs.png" />
+<img src="https://img.icons8.com/color/60/000000/npm.png"/>
+<img src="https://img.icons8.com/color/60/000000/postgreesql.png"/>
+<img src="https://img.icons8.com/color/60/000000/redux.png"/>
+<img src="https://img.icons8.com/color/60/000000/bootstrap.png"/>
+<img src="https://img.icons8.com/nolan/60/heroku.png"/>
+<img src="https://img.icons8.com/color/60/000000/placeholder-thumbnail-json-1.png"/>
+
+<hr/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shapirobd&layout=compact)](https://github.com/shapirobd/github-readme-stats)
+
+<hr/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shapirobd)](https://github.com/shapirobd/github-readme-stats)
 
 <!--
 **shapirobd/shapirobd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
