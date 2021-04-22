@@ -1,4 +1,4 @@
-![New Project (9)](https://user-images.githubusercontent.com/67729880/115770779-1e531b80-a37b-11eb-8c16-eb10449b912d.png)
+![New Project (11)](https://user-images.githubusercontent.com/67729880/115784823-9fff7500-a38c-11eb-8683-b3c1b04bdde4.png)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shapirobd.shapirobd)  
 
@@ -23,8 +23,6 @@
 <hr/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shapirobd)](https://github.com/shapirobd/github-readme-stats)
-
-![New Project (10)](https://user-images.githubusercontent.com/67729880/115771081-8275df80-a37b-11eb-9910-6494ea21c60a.png)
 
 <!--
 **shapirobd/shapirobd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
