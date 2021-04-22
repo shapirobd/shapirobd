@@ -24,6 +24,16 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shapirobd)](https://github.com/shapirobd/github-readme-stats)
 
+<p align="center">
+  <i>Let's connect and chat! Open to anything under the sun.</i>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/shapirobd/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="mailto:brian@brianshapiro.me" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="https://www.brianshapiro.me" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+  </p>
+</p>
+
 <!--
 **shapirobd/shapirobd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
