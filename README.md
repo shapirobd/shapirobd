@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shapirobd.shapirobd)  
 
-# 🧰 Development Toolbox   
+🧰 Development Toolbox   
 <img src="https://img.icons8.com/color/60/000000/javascript.png"/>
 <img src="https://img.icons8.com/color/60/000000/python.png"/>
 <img src="https://img.icons8.com/plasticine/60/000000/react.png"/>
