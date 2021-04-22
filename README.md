@@ -24,6 +24,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shapirobd)](https://github.com/shapirobd/github-readme-stats)
 
+![New Project (10)](https://user-images.githubusercontent.com/67729880/115771081-8275df80-a37b-11eb-9910-6494ea21c60a.png)
+
 <!--
 **shapirobd/shapirobd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
