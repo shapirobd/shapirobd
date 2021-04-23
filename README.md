@@ -38,11 +38,11 @@
 
 <hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shapirobd&layout=compact)](https://github.com/shapirobd/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shapirobd&layout=compact&theme=react)](https://github.com/shapirobd/github-readme-stats)
 
 <hr/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shapirobd)](https://github.com/shapirobd/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shapirobd&theme=react)](https://github.com/shapirobd/github-readme-stats)
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
