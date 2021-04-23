@@ -2,19 +2,38 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=shapirobd.shapirobd)  
 
-🧰 Development Toolbox   
-<img src="https://img.icons8.com/color/60/000000/javascript.png"/>
-<img src="https://img.icons8.com/color/60/000000/python.png"/>
-<img src="https://img.icons8.com/plasticine/60/000000/react.png"/>
-<img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/60/000000/css3.png"/>
-<img src="https://img.icons8.com/color/60/000000/nodejs.png" />
-<img src="https://img.icons8.com/color/60/000000/npm.png"/>
-<img src="https://img.icons8.com/color/60/000000/postgreesql.png"/>
-<img src="https://img.icons8.com/color/60/000000/redux.png"/>
-<img src="https://img.icons8.com/color/60/000000/bootstrap.png"/>
-<img src="https://img.icons8.com/nolan/60/heroku.png"/>
-<img src="https://img.icons8.com/color/60/000000/placeholder-thumbnail-json-1.png"/>
+## Languages   
+<div>
+  <img src="https://img.icons8.com/color/60/000000/javascript.png"/>
+  <img src="https://img.icons8.com/color/60/000000/python.png"/>
+  <img src="https://img.icons8.com/color/60/000000/html-5--v1.png"/>
+  <img src="https://img.icons8.com/color/60/000000/css3.png"/>
+  <img src="https://img.icons8.com/color/60/000000/golang.png"/>
+</div>
+
+## Front-End   
+<div>
+  <img src="https://img.icons8.com/plasticine/60/000000/react.png"/>
+  <img src="https://img.icons8.com/color/60/000000/redux.png"/>
+  <img src="https://img.icons8.com/color/60/000000/material-ui.png"/>
+  <img src="https://img.icons8.com/color/60/000000/bootstrap.png"/>
+</div>
+
+## Back-End 
+<div>
+  <img src="https://img.icons8.com/windows/60/68a163/node-js.png"/>
+  <img src="https://img.icons8.com/color/60/000000/postgreesql.png"/>
+</div>
+
+## Package Management
+<div>
+  <img src="https://img.icons8.com/color/60/000000/npm.png"/>
+</div>
+
+## Deployment
+<div>
+  <img src="https://img.icons8.com/nolan/60/heroku.png"/>  
+</div>
 
 <hr/>
 
