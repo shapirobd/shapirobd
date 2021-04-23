@@ -27,7 +27,8 @@
 
 ## Package Management
 <div>
-  <img src="https://img.icons8.com/color/60/000000/npm.png"/>
+    <img src="https://img.icons8.com/color/60/000000/npm.png"/>
+    <img src="https://raw.githubusercontent.com/github/explore/666de02829613e0244e9441b114edb85781e972c/topics/pip/pip.png" width="60"/> 
 </div>
 
 ## Deployment
