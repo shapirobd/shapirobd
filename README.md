@@ -54,6 +54,8 @@
   </p>
 </p>
 
+<p>Please note: Since July 2021, I have found new employment that requires me to use Bitbucket for version control, so there has been a drop in my GitHub activity since that time.</p>
+
 <!--
 **shapirobd/shapirobd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
