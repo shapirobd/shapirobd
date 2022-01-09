@@ -54,7 +54,7 @@
   </p>
 </p>
 
-<div style="width: 100%; display: flex; align-items: center; justify-content: center; flex-border-radius: 5px; background-color: rgba(255,255,0,0.5); border: 1px solid rgb(255,255,0);">
+<div>
   <p>Please note: Since July 2021, I have found new employment that requires me to use Bitbucket for version control, so there has been a drop in my GitHub activity since that time.</p>
 </div>
 
